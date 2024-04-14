@@ -1,3 +1,11 @@
 .bodyContainer {
-        font-family: 'Courier Prime', Courier, monospace;
+    font-family: 'Courier Prime', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.queryInput {
+    border: 1px solid grey;
+    border-radius: 10px;
 }
